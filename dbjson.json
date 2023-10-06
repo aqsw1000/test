@@ -1,0 +1,77 @@
+{
+  "data":[
+    {
+      "id":1,
+      "name":"CLUSIA 클루시아",
+      "info":"식물, 클루시아, 15 cm",
+      "price":19900,
+      "img":"https://www.ikea.com/kr/ko/images/products/clusia-potted-plant-clusia__0554634_pe659859_s5.jpg?f=s",
+      "category":"plant"
+    },
+    {
+      "id":2,
+      "name":"VARIERA 바리에라",
+      "info":"수납 턴테이블",
+      "price":14900,
+      "img":"https://www.ikea.com/kr/ko/images/products/variera-storage-turntable__1098188_pe865310_s5.jpg?f=xxxs",
+      "category":"kitchen"
+    },
+    {
+      "id":3,
+      "name":"NÄTBARB 네트바르브",
+      "info":"그릇, 블랙, 14 cm",
+      "price":2900,
+      "img":"https://www.ikea.com/kr/ko/images/products/naetbarb-bowl-black__1198344_pe904035_s5.jpg?f=xxxs",
+      "category":"kitchen"
+    },
+    {
+      "id":4,
+      "name":"RADERMACHERA 라데르마셰라",
+      "info":"식물, 녹보수, 12 cm",
+      "price":22900,
+      "img":"https://www.ikea.com/kr/ko/images/products/radermachera-potted-plant-china-doll__0554652_pe659872_s5.jpg?f=xs",
+      "category":"plant"
+    },
+    {
+      "id":5,
+      "name":"BJÖRKSPIREA 비에르크스피레아",
+      "info":"LED장식조명, 블랙 튜브 모양",
+      "price":19900,
+      "img":"https://www.ikea.com/kr/ko/images/products/bjoerkspirea-led-decoration-lighting-black-tube-shaped__1088618_pe861266_s5.jpg?f=xxxs",
+      "category":"lamp"
+    },
+    
+    {
+      "id":6,
+      "name":"ROSENSLÅN 로센슬론",
+      "info":"세라믹병 향초, 앰버 & 장미/레드/브라운, 25 시",
+      "price":6900,
+      "img":"https://www.ikea.com/kr/ko/images/products/rosenslan-scented-candle-in-ceramic-jar-amber-rose-red-brown__1151239_pe884855_s5.jpg?f=xxxs",
+      "category":"candle"
+    },
+    {
+      "id":7,
+      "name":"SOMMARLÅNKE 솜말롱케",
+      "info":"LED 장식용 탁상스탠드, 배터리식 실외용/베이지 스트라이프, 17 cm",
+      "price":19900,
+      "img":"https://www.ikea.com/kr/ko/images/products/sommarlanke-led-decorative-table-lamp-battery-operated-outdoor-beige-stripe__1149230_pe883922_s5.jpg?f=xxxs",
+      "category":"lamp"
+    },
+    {
+      "id":8,
+      "name":"STÖRTSKÖN 스퇴르트셴",
+      "info":"기둥모양 향초, 베리/레드, 30 시",
+      "price":3500,
+      "img":"https://www.ikea.com/kr/ko/images/products/stoertskoen-scented-pillar-candle-berries-red__1097099_pe864724_s5.jpg?f=xxxs",
+      "category":"candle"
+    },
+    {
+      "id":9,
+      "name":"LUGNARE 룽나레",
+      "info":"기둥모양 향초, 자스민/핑크, 30 시",
+      "price":9900,
+      "img":"https://www.ikea.com/kr/ko/images/products/lugnare-scented-pillar-candle-jasmine-pink__1096837_pe864565_s5.jpg?f=xxxs",
+      "category":"candle"
+    }
+  ]
+}
